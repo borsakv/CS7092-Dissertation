@@ -1,0 +1,12 @@
+opencv-contrib-python
+opencv-python
+dlib
+face-recognition
+mtcnn
+retina-face
+customtkinter
+CTkListbox
+CTkMessagebox
+Pillow
+pymediainfo
+pyinstaller
